@@ -29,6 +29,7 @@ mistune==0.8.3
 nbconvert==5.3.1
 nbformat==4.4.0
 notebook==5.5.0
+numexpr==2.6.8
 numpy==1.15.0
 opencv-python==3.4.2.17
 pandas==0.23.4
@@ -45,12 +46,15 @@ pytz==2018.5
 pyzmq==17.0.0
 qtconsole==4.3.1
 requests==2.19.1
+sas7bdat==2.1.1
 scikit-learn==0.19.2
 scipy==1.1.0
 Send2Trash==1.5.0
 simplegeneric==0.8.1
 six==1.11.0
 sklearn==0.0
+SQLAlchemy==1.2.11
+tables==3.4.4
 terminado==0.8.1
 testpath==0.3.1
 tornado==5.1
@@ -59,3 +63,4 @@ urllib3==1.23
 wcwidth==0.1.7
 webencodings==0.5.1
 widgetsnbextension==3.2.1
+xlrd==1.1.0
