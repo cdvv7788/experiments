@@ -10,6 +10,7 @@ Topics
 ------
 
 [Exploratory data analysis](https://github.com/cdvv7788/experiments/tree/master/EDA)
+Focus on exploring the properties of the data, and analyze it.
 [Algebra](https://github.com/cdvv7788/experiments/tree/master/algebra)
 [Artificial Neural Networks](https://github.com/cdvv7788/experiments/tree/master/artificial_neural_networks)
 [Clustering](https://github.com/cdvv7788/experiments/tree/master/clustering)
