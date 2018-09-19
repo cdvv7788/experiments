@@ -14,7 +14,9 @@ Focus on exploring the properties of the data, and analyze it.
 [Algebra](https://github.com/cdvv7788/experiments/tree/master/algebra)
 Basic operations using numpy and pandas
 [Artificial Neural Networks](https://github.com/cdvv7788/experiments/tree/master/artificial_neural_networks)
+Examples related to ANN using keras
 [Clustering](https://github.com/cdvv7788/experiments/tree/master/clustering)
+Clustering exercises. Mostly using traditional classifiers
 [Computer Vision](https://github.com/cdvv7788/experiments/tree/master/computer_vision)
 [Databases](https://github.com/cdvv7788/experiments/tree/master/database_management)
 [Load Data](https://github.com/cdvv7788/experiments/tree/master/files)
