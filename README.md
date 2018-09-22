@@ -22,3 +22,4 @@ Computer vision examples. Using cv2 and scipy
 [Databases](https://github.com/cdvv7788/experiments/tree/master/database_management)
 Database management. Includes examples with sqlalchemy
 [Load Data](https://github.com/cdvv7788/experiments/tree/master/files)
+Examples of loading data from different sources and for different purposes
